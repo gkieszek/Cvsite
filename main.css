@@ -1,0 +1,46 @@
+body{
+    background-color: #f3f3f3;
+}
+/* menu */
+header{
+    
+}
+ul{
+    float: right;
+    display: inline;
+}
+
+/* wstęp */
+.container{
+    width: 1920;
+    height: 1080;
+}
+.profilowe{
+    float: left;
+    width: 30%;
+    height: 400px;
+    border-radius: 50%;
+    background-image: url('DSC09053.JPG');
+    background-size: cover;
+    border-radius: 100%;
+    margin-left: 20%;
+    margin-top: 15%;
+}
+.opis{
+    margin-top: 15%;
+    float: right;
+    width:49%;
+    height: 400px;
+    white-space: pre-line;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    visibility: inherit;
+}
+.opis h1{
+    margin-bottom: 0;
+    margin-bottom: 0;
+    font-size: xx-large;
+}
+.opis p{
+    margin-top: 1px;
+    font-size: large;
+}
